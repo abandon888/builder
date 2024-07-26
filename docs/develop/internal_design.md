@@ -4,6 +4,7 @@
 
 暴漏给客户端，返回素材列表
 
+
 ```Go
 type CategoryCollection map[string]string
 type ListAssetsParams struct {
